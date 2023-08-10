@@ -1,38 +1,21 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# Programación con objetos I
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+# Lautaro Martinez
 
-```wollok
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Hola mi nombre es Lautaro, este es mi tercer cuatrimestre en la UNAHUR. En el año 2020 en medio de plena pandemia termine el secundario, al principio no sabia que hacer.. si trabajar, estudiar, etc.
+Luego cuando ya tuve claro que lo que queria era estudiar llego el momento de pensar que estudiar. En el primer año luego de terminar el secundario, me anote en otra universidad a la carrera de lic. en nutricion pero al final no me gusto y lo deje. Asi que durante el 2021 estuve divagando en que carrera estudiar y tambien planteandome cosas importantes sobre la vida.
+Ya llegado los primeros meses del 2022 estaba navegando en internet cuando me tope con la oferta de academica de la UNAHUR, aparte de la carrera que elegi (lic. en Informatica) lo que mas me gusto fue que no tenia que esperar hasta los primeros meses del año siguiente para empezar mi primer cuatrimestre, sino que cursaba el CPU a mitad de año y ahi nomas arrancaba mi primer cuatrimestre (agosto 2022).
+En el año 2022 comence un curso de electricidad de mas de 1 año de duracion en el que aprendi muchas cosas nuevas e interesantes, y tambien fue mi primer año en la UNAHUR.
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1Ik6coqFm2lr2m6EFBGo3Ul4Bi4RPhrrtMQLbK3WcbIQ/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-* [Guía Rápida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+![20230703_115640](https://github.com/obj1-unahur-2023s2/presentacionpersonal-Lautaro1243/assets/141639493/28a08834-f6da-4e7e-ad15-f1fe6b774bb0)
 
-### Presentacion Personal
 
-Me llamo ...
+## MIS GUSTOS
+- Soy muy fan del mate, tomo mate a cualquier hora y en cualquier momento, no tengo problema. Me encanta el mate amargo bien cebado, aunque tambien acepto uno no tan dulce si es por compartir con alguien.
+- Me gustan los deportes, practique varios deportes. Futbol, taekwondo, karate, Boxeo e hice musculacion un tiempo en el gimnasio. Aunque ahora estoy alejado de los deportes, no tengo tanto tiempo para dedicarles como antes.
+- Me estoy haciendo adicto al cafe jaja, aunque esto no es muy bueno.
 
-Me gusta ...
 
-Me dedico a / Trabajo de ...
 
-Les dejo una imagen mía 
-
-![subir archivo de imagen](imagen.jpg)
